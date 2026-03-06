@@ -20,17 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Malak GitHub stats](https://github-readme-stats.vercel.app/api?username=malak-4&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malak-4&layout=compact&theme=tokyonight)
-
----
 
 ## 🌟 Featured Projects
 
